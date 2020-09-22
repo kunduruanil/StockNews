@@ -1,0 +1,6 @@
+
+
+pip install newspaper3k
+pip install boilerpipe3
+# https://github.com/slaveofcode/boilerpipe3 java home needed
+# https://mkyong.com/java/how-to-set-java_home-on-windows-10/
